@@ -1,0 +1,39 @@
+_repo: The-first-church-s-Christmas-barrel_70294
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoskins, Gayle Porter
+    birthdate: 1887
+    deathdate: 1962
+    gutenberg_agent_id: '32695'
+    url: http://www.gutenberg.org/2009/agents/32695
+    wikipedia: https://en.wikipedia.org/wiki/Gayle_Porter_Hoskins
+creator:
+  author:
+    agent_name: Stanley, Caroline Abbot
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '49374'
+    url: http://www.gutenberg.org/2009/agents/49374
+    wikipedia: https://en.wikipedia.org/wiki/Caroline_Abbot_Stanley
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70294'
+language: en
+pgterms:marc904: https://archive.org/details/firstchurchschri0000caro
+pgterms:marc905: 20221128101809stanley
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: David Edwards, PrimeNumber and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThomas Y. Crowell Company, $c1910, copyright
+  1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The first church's Christmas barrel
+url: http://www.gutenberg.org/ebooks/70294
